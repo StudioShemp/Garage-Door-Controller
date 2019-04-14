@@ -1,5 +1,7 @@
 
-URL:# Garage-Door-Controller
+URL:# https://github.com/StudioShemp/Garage-Door-Controller
+
+Garage-Door-Controller
 ESP32 Garage Door controller with Blynk integration and IFTTT/Google Home capability
 ESP32 Sketch for controlling my garage door.
 
