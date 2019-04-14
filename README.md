@@ -30,7 +30,7 @@ Within IFTTT That :
 Webhooks
 
 URL:
-https://blynk-cloud.com/<your-blynk-project-auth-code>/update/V7
+https://blynk-cloud.com/(your-blynk-project-auth-code)/update/V7
 
 Method:
 PUT
@@ -53,4 +53,4 @@ Blynk.begin(auth, ssid, pass, "45.55.96.146", 8442);
 and your webhook would be
 
 URL:
-https://45.55.96.146/<your-blynk-project-auth-code>/update/V7
+https://45.55.96.146/(your-blynk-project-auth-code)/update/V7
