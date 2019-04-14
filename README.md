@@ -12,7 +12,7 @@ V3 is configured as an Advanced LCD      (shows door state - open/closed)
 
 V5 is configured as a Value Display          (shows the distance in cm from the ceiling to the garage door - <40cm when open)
 
-The ESP32 module triggers a relay via GPO Pin 34 
+The ESP32 module triggers a relay via GPO Pin 32 
 
 It measures distance using a standard ultrasonic sensor module connected to pins 14 (trigger) and 25 (echo)
 
